@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @N7z
+- 👀 I’m interested in Node JS
+- 🌱 I’m currently learning PHP & Node JS
+- 📫 Discord: $ paulin ☂#0001
