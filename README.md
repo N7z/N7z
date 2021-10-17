@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @N7z
-- 👀 I’m interested in Node JS
-- 🌱 I’m currently learning PHP & Node JS
-- 📫 Discord: Paulin#2008
+🌷 I'm Paulin, 13 years old. 
+💻 Learning PHP/JavaScript
