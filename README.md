@@ -1,4 +1,4 @@
-🌷 I'm Paulin, 14 years old.<br><br>
+🌷 I'm Paulin.<br><br>
   
 💻 Learning PHP/JavaScript<br><br>
 
