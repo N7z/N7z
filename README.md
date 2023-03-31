@@ -6,4 +6,4 @@
 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![js](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=JS&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)
