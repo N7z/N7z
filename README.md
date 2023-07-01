@@ -1,10 +1,3 @@
 🌷 I'm Paulin.<br><br>
   
 💻 JavaScript na veia<br><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n7z&theme=gruvbox&show_icons=true)
-
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933)
-![php](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=#777BB4)
