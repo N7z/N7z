@@ -1,5 +1,7 @@
 𝓑𝓮𝓶 𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓖𝓲𝓽𝓗𝓾𝓫
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N7z)](https://github.com/anuraghazra/github-readme-stats)
+
 👨‍💻 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓭𝓸𝓻 𝓦𝓮𝓫 𝓑𝓪𝓬𝓴-𝓮𝓷𝓭
 
 🚀 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼<br>
