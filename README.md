@@ -7,4 +7,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="c" width="40" height="40"/>
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gykjuchtqulevoyd2d6bliihha&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gykjuchtqulevoyd2d6bliihha&count=3)
