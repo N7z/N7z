@@ -4,5 +4,5 @@
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="c" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/laravel-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="c" width="40" height="40"/>
 </p>
