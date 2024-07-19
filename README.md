@@ -1,4 +1,5 @@
 ![image](https://github.com/user-attachments/assets/a37b7b5e-a742-4164-84fd-7983bff8c689)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">🚀 Tecnologias</h3>
 <p align="left">
