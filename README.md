@@ -9,4 +9,3 @@
 </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gykjuchtqulevoyd2d6bliihha&count=3)
