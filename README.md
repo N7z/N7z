@@ -1,5 +1,4 @@
 ![image](https://github.com/user-attachments/assets/a37b7b5e-a742-4164-84fd-7983bff8c689)
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">🚀 Tecnologias</h3>
 <p align="left">
@@ -8,4 +7,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="c" width="40" height="40"/>
 </p>
 
+![](https://komarev.com/ghpvc/?username=N7z)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gykjuchtqulevoyd2d6bliihha&count=3)
