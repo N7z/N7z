@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Stacks
-https://github.com/get-icon/geticon/raw/master/icons/mysql.svg
+[image][https://github.com/get-icon/geticon/raw/master/icons/mysql.svg]
