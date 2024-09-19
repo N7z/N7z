@@ -41,8 +41,8 @@ def resolver_imc(peso, altura):
     imc_classificacao = classificar_imc(imc)
 
     title_helper()
-    print(f"Seu IMC é de: {Fore.CYAN}{imc:.2f}{Style.RESET_ALL}")
-    print(f"Classificação: {Fore.GREEN}{imc_classificacao}\n{Style.RESET_ALL}")
+    print(f"Seu IMC é de: {Fore.CYAN}{imc:.2f}")
+    print(f"Classificação: {Fore.GREEN}{imc_classificacao}\n")
 
     # Calcula o peso ideal para IMC normal (entre 18.5 e 24.9)
     peso_normal_min = 18.5 * (altura_em_metros ** 2)
@@ -51,13 +51,13 @@ def resolver_imc(peso, altura):
     if imc < 18.5:
         # Pessoa abaixo do peso, precisa engordar até peso normal
         peso_necessario = peso_normal_min - peso
-        print(f"{Fore.YELLOW}Você precisa engordar {peso_necessario:.2f} kg para atingir um IMC normal.{Style.RESET_ALL}")
+        print(f"{Fore.YELLOW}Você precisa engordar {peso_necessario:.2f} kg para atingir um IMC normal.")
     elif imc > 24.9:
         # Pessoa acima do peso, precisa emagrecer até peso normal
         peso_necessario = peso - peso_normal_max
-        print(f"{Fore.RED}Você precisa emagrecer {peso_necessario:.2f} kg para atingir um IMC normal.{Style.RESET_ALL}")
+        print(f"{Fore.RED}Você precisa emagrecer {peso_necessario:.2f} kg para atingir um IMC normal.")
     else:
-        print(f"{Fore.GREEN}Seu peso já está dentro da faixa de IMC normal.{Style.RESET_ALL}")
+        print(f"{Fore.GREEN}Seu peso já está dentro da faixa de IMC normal.")
 
 # Função para classificar o IMC baseado nos valores
 def classificar_imc(imc):
@@ -78,14 +78,14 @@ def input_helper(message, isFloat=False):
             break
         except ValueError:
             title_helper()
-            print(f"{Fore.RED}Erro de digitação. Digite novamente!{Style.RESET_ALL}")
+            print(f"{Fore.RED}Erro de digitação. Digite novamente!")
             sleep(1)
             
     return resposta
 
 def title_helper():
     system('clear')  # Limpa o console
-    print(f"{Fore.CYAN}Calculadora de IMC\n{Style.RESET_ALL}")
+    print(f"{Fore.CYAN}Calculadora de IMC\n")
 
 # Inicia a aplicação
 if __name__ == '__main__':
