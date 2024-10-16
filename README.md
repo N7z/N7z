@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/85556cb6-7ed2-4b88-860d-5a611bac9c7f)
 ![image](https://github.com/user-attachments/assets/fc135bcf-141d-4c69-bcdb-1e9b545a1508)
 ![image](https://github.com/user-attachments/assets/a31eeb8f-9beb-44da-b8c7-1f49987bd693)
-![image](https://github.com/user-attachments/assets/c922a40a-db8e-496b-acd6-b3bdbe696a16)
+![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://github.com/user-attachments/assets/2aa0f98f-6789-462c-b3fc-0bfc50ecc23e)
 ![image](https://github.com/user-attachments/assets/9f8779ac-04dd-44a1-b097-f5b4c2ef93fa)
 ![image](https://github.com/user-attachments/assets/21ba682c-b539-44c0-b931-94caccaa73bc)
