@@ -1,5 +1,5 @@
-# Welcome to my GitHub
-Hey there! Welcome to my profile.
+# Bem vindo
+Opa! Esse é o meu perfil.
 Discord: zpaulin
 
 ## Stacks
